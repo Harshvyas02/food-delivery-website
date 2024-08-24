@@ -20,6 +20,19 @@ This repo contains the starter code for the Food Delivery Website project.
   - For users who do not have an account yet, the login page provides a link to the sign-up page, encouraging new users to create an account.
     
 ![image](https://github.com/user-attachments/assets/5fc9a63a-846b-4a07-8150-3b96ad25583f)
+# Item Quantity Management
+- The highlighted section allows users to manage the quantity of a specific dish (e.g., "Greek salad").
+- Users can increase or decrease the number of items they want to order using the + (plus) and - (minus) buttons.
+
+- User-Friendly Interface:
+  - The interface is designed to be intuitive and user-friendly, enabling quick adjustments to the order quantity directly from the product card.
+
+- Real-Time Update:
+  - As users adjust the quantity, the count updates in real-time, providing immediate feedback and ensuring the order reflects the desired amount.
+
+- Visual Feedback:
+  - The quantity controls (+ and - buttons) are prominently displayed, and the current quantity is shown between the buttons, making it easy to understand at a glance.
+
 ![image](https://github.com/user-attachments/assets/6dca4e4b-fb0e-4f40-9be2-b260ef0c8e2d)
 ![image](https://github.com/user-attachments/assets/b29eec87-c356-42e3-8ec8-be623be0a85c)
 ![image](https://github.com/user-attachments/assets/a9b5dc44-41a5-470c-88c1-8f6ce6fe019c)
