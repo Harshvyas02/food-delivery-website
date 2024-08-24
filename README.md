@@ -34,6 +34,25 @@ This repo contains the starter code for the Food Delivery Website project.
   - The quantity controls (+ and - buttons) are prominently displayed, and the current quantity is shown between the buttons, making it easy to understand at a glance.
 
 ![image](https://github.com/user-attachments/assets/6dca4e4b-fb0e-4f40-9be2-b260ef0c8e2d)
+# Shopping Cart and Checkout Page Functionality
+- Cart Overview:
+  - This page provides a detailed overview of the user's shopping cart, displaying the items they have selected for purchase, including the title, price per item, quantity, and total cost for each item.
+
+- Item Management:
+  - Users can adjust the quantity of each item directly within the cart using the input fields under the "Quantity" column. The total price for each item adjusts dynamically based on the selected quantity.
+
+- Remove Items:
+  - The "Remove" column provides an option (indicated by an "x" button) to remove individual items from the cart, allowing for easy modification of the order before checkout.
+
+- Cart Totals Calculation:
+  - The "Cart Totals" section at the bottom of the page displays a breakdown of the subtotal, delivery fee, and the total amount payable. This section dynamically updates based on the items in the cart and their quantities.
+
+- Promo Code Application:
+  - Users have the option to enter a promo code in the provided input field to apply discounts to their order. The "Submit" button processes the promo code and updates the total cost accordingly.
+
+- Proceed to Checkout:
+  - The "PROCEED TO CHECKOUT" button is prominently displayed to guide users to the next step in the purchasing process. Clicking this button takes users to the checkout page where they can enter payment details and complete their purchase.
+
 ![image](https://github.com/user-attachments/assets/b29eec87-c356-42e3-8ec8-be623be0a85c)
 ![image](https://github.com/user-attachments/assets/a9b5dc44-41a5-470c-88c1-8f6ce6fe019c)
 ![image](https://github.com/user-attachments/assets/baaa23a6-9759-4f9e-b386-00eb0964206b)
